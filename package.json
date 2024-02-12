@@ -1,0 +1,27 @@
+{
+  "name": "book-record-management-project",
+  "version": "1.0.0",
+  "description": "Library System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GowthamXeno/Book-Record-Management-Project.git"
+  },
+  "author": "Gowtham M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GowthamXeno/Book-Record-Management-Project/issues"
+  },
+  "homepage": "https://github.com/GowthamXeno/Book-Record-Management-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
