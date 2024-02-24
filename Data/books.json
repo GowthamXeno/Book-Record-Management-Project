@@ -14,15 +14,15 @@
       "author": "Alan Moore",
       "genre": "Fantasy",
       "price": "12.99",
-      "publisher": "Houghton Mifflin"
+      "publisher": "Times"
     },
     {
       "id": "3",
-      "name": "The Land Before Time",
-      "author": "Alan Moore",
+      "name": "The Bomb Time",
+      "author": "Hitler",
       "genre": "Fantasy",
-      "price": "12.99",
-      "publisher": "Houghton Mifflin"
+      "price": "13.329",
+      "publisher": "vigatan"
     }
   ]
 }
